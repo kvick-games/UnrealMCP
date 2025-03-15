@@ -9,7 +9,7 @@ This is very much a work in progress, and I need to clean up a lot of stuff!!!!!
 Also, I only use windows, so I don't know how this would be setup for mac/unix
 
 ## Overview
-UnrealMCP is an Unofficial Unreal Engine plugin designed to control Unreal Engine with AI tools. It implements a Machine Control Protocol (MCP) within Unreal Engine, allowing external AI systems to interact with and manipulate the Unreal environment programmatically.
+UnrealMCP is an Unofficial Unreal Engine plugin designed to control Unreal Engine with AI tools. It implements a Model Context Protocol (MCP) https://modelcontextprotocol.io/introduction within Unreal Engine, allowing external AI systems to interact with and manipulate the Unreal environment programmatically.
 
 I only just learned about MCP a few days ago, so I'm not that familiar with it, I'm still learning so things might be initially pretty rough.
 I've implemented this using https://github.com/ahujasid/blender-mcp as a reference, which relies on claude for desktop. It may or may not work with other models, if you experiment with any, please let me know!
